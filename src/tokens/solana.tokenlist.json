@@ -126,6 +126,17 @@
     },
     {
       "chainId": 101,
+      "address": "HUmD5w8w6MvEeH59xQobQG9VJoYEQrZKjRBFuQCtCA7i",
+      "symbol": "DOGOCOIN",
+      "name": "DOGO COIN",
+      "decimals": 8,
+      "logoURI": "https://github.com/alebrega/dogo/blob/main/Screenshot%202021-11-07%20at%2018.11.45.png?raw=true",
+      "tags": [
+        "meme-token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ",
       "symbol": "KITTY",
       "name": "KITTY SOLANA",
